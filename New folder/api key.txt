@@ -1,0 +1,15 @@
+6T1W-42fAxBxxEM9nq1FLqMqGmBPDQ_UU0yT11KGWMyKv1AqjDIuhg
+
+
+curl \
+    -X GET 'https://6c3638cb-0cc2-4378-9aec-3dc127340b1d.us-east4-0.gcp.cloud.qdrant.io:6333' \
+    --header 'api-key: 6T1W-42fAxBxxEM9nq1FLqMqGmBPDQ_UU0yT11KGWMyKv1AqjDIuhg'
+
+
+
+
+DsOAw8cfZxLh46nQqA1cxM6MVFDDA5DInZXTvUAVs1KN_ArtgsVv1A
+
+curl \
+    -X GET 'https://c05d961b-45d6-4076-893a-f3cf942b2373.us-east4-0.gcp.cloud.qdrant.io:6333' \
+    --header 'api-key: DsOAw8cfZxLh46nQqA1cxM6MVFDDA5DInZXTvUAVs1KN_ArtgsVv1A'
